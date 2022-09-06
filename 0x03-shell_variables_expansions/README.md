@@ -1,1 +1,1 @@
-scripts that conbines
+print a number wit 2 decimal places
