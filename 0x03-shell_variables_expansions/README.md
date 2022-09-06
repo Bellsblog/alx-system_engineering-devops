@@ -1,1 +1,1 @@
-to alias command
+writing hello
