@@ -1,1 +1,1 @@
-number of dir
+listing enviroment variables
