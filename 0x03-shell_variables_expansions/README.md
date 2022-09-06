@@ -1,1 +1,1 @@
-converting bases
+script that encodes and decodes
